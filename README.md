@@ -1,2 +1,2 @@
-# diary
-talk to myself
+# Something
+Talk to myself
