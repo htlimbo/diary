@@ -1,0 +1,2 @@
+# diary
+talk to myself
